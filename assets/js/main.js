@@ -128,7 +128,7 @@ const sr = ScrollReveal({
   distance: "60px",
   duration: 2000,
   delay: 300,
-  reset: true, // Animation repeat
+  // reset: true, // Animation repeat
 });
 
 sr.reveal("popular__swiper,.footer__container,.footer__copy");
