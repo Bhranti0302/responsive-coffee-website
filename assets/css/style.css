@@ -1054,6 +1054,10 @@ footer__button {
     margin-bottom: 6rem;
   }
 
+   .home__title{
+    font-size:var(--biggest-font-size);
+  }
+
   .home__sticker {
     width: 150px;
     top: 23rem;
