@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 
 Experience the STARCOFFEE website live here:
-**[View Live Demo on Netlify] (https://responsive-starcoffee-website.netlify.app/)** ---
+**[View Live Demo on Netlify] (https://starcoffee-responsive-website.netlify.app/)** ---
 
 ## ✨ Features
 
