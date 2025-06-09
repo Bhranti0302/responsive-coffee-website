@@ -89,8 +89,6 @@ window.addEventListener("scroll", scrollUp);
 
 document.addEventListener("DOMContentLoaded", () => {
   const sections = document.querySelectorAll("section[id]");
-  const navbarHeight = 58;
-  console.log(sections);
 
   const scrollActive = () => {
     const scrollDown = window.scrollY;
@@ -98,7 +96,6 @@ document.addEventListener("DOMContentLoaded", () => {
     sections.forEach((current) => {
       const sectionHeight = current.offsetHeight;
       let sectionTop = current.offsetTop - 56;
-      console.log(current.id, sectionTop);
 
       const sectionId = current.getAttribute("id");
 
